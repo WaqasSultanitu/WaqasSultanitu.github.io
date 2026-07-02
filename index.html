@@ -289,29 +289,23 @@ title: Personal Webpage
 <div class="docs-section" id="students">
   <h4>Students</h4>
 
-  </p>
+  <ul class="listType">
+    {% for paper in site.data.students.papers %}
+      <div class="paper">
+        <li>
+          <span>
+            <b>{{ paper.authors }}</b> {{ paper.title }}
 
-  <ul class="tab-nav">
-    <li><div class="button active" data-ref="#students-selected">Ph.D</div></li>
-    <li><div class="button" data-ref="#students-all">MS</div></li>
-  </ul>
-
-  <div class="tab-content">
-    <div class="tab-pane active" id="students-selected">
-	<ul class="listType">
-      {% assign selected_papers = site.data.students.papers | where: "selected", "y" %}
-      {% for paper in selected_papers %}
-        <div class="paper" >
-        <li><span><b>{{ paper.authors }}</b> {{ paper.title }}
-           
-			{% if paper.paper_pdf %}
-              [<a class="notbutton" href="{{ paper.paper_pdf | prepend: site.baseurl }} " target="_blank" style="text-decoration: none">Paper</a>]
+            {% if paper.paper_pdf %}
+              [<a class="notbutton" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>]
             {% endif %}
-			{% if paper.page %}
+
+            {% if paper.page %}
               [<a class="notbutton" href="{{ paper.page | prepend: site.baseurl }}" target="_blank">Project Page</a>]
             {% endif %}
-			{% if paper.slides %}
-             [ <a class="notbutton" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>]
+
+            {% if paper.slides %}
+              [<a class="notbutton" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>]
             {% endif %}
 
             {% if paper.poster %}
@@ -325,38 +319,16 @@ title: Personal Webpage
             {% if paper.code %}
               [<a class="notbutton" href="{{ paper.code }}" target="_blank">Code</a>]
             {% endif %}
-			{% if paper.dataset %}
+
+            {% if paper.dataset %}
               [<a class="notbutton" href="{{ paper.dataset }}" target="_blank">Dataset</a>]
             {% endif %}
-			</font>
- <!--
-           <div class="paper-buttons">
-            {% if paper.paper_pdf %}
-              <a class="notbutton" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank" style="text-decoration: none">Paper</a>
-            {% endif %}
-
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-            {% endif %}
-
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-            {% endif %}
-
-            {% if paper.video %}
-              <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-            {% endif %}
-
-            {% if paper.code %}
-              <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-            {% endif %}
-          </div>
-		  -->
-		  </li>
-        </div>
-      {% endfor %}
-	  </ul>
-    </div>
+          </span>
+        </li>
+      </div>
+    {% endfor %}
+  </ul>
+</div>
 		  
 	     <div class="tab-pane" id="students-all">
 		<ul class="listType">
