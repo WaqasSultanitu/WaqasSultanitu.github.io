@@ -2,7 +2,7 @@ papers:
  
   - title: "Secure and Robust Machine Learning for Healthcare"
     authors: "[2018-2025] Adnan Qayyum (Co-Supervisor)"
-    year: "2020"
+    year: " "
     selected: y
  
   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
@@ -12,28 +12,28 @@ papers:
     selected: n
     
   - title: "A Dataset and Benchmark for Malaria Life-Cycle Classification in Thin Blood Smear Images"
-    authors: "[2020] Qazi Ammar Arshad"
-    year: "2020"
-    paper_pdf: "https://arxiv.org/pdf/2102.08708.pdf/"
+    authors: "Qazi Ammar Arshad"
+    year: ""
+    paper_pdf: " "
     selected: n
  
  
   - title: "Deep Learning based House Counting in Satellite Imagery"
-    authors: "[2021] Hira Ahmad"
+    authors: "Hira Ahmad"
     year: "2021"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    paper_pdf: " "
     selected: n
  
   - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
-    authors: "[2019] Muhammad Usman Ali"
-    year: "2019"
-    paper_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0924271620300368/"
+    authors: " Muhammad Usman Ali"
+    year: " "
+    paper_pdf: " "
     selected: n
     
   - title: "Photo Album Summerization"
-    authors: "[2019] Fawad Arshad"
-    year: "2019"
-    paper_pdf: "https://arxiv.org/abs/2103.17242/"
+    authors: " Fawad Arshad"
+    year: " "
+    paper_pdf: " "
     selected: n
     
     
