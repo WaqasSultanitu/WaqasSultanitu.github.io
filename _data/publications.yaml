@@ -15,7 +15,15 @@ papers:
     code: ""
     year: "2026"
     selected: y
-   
+    
+  - title: "Turning Generators into Retrievers: Unlocking MLLMs for Natural Language-Guided Geo-Localization"
+    authors: "Y. Chen, Xiaohan Zhang, A. Arrabi, Waqas Sultani, Chen Chen, Safwan Wshah"
+    venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+    paper_pdf: "https://arxiv.org/pdf/2604.10721"
+    code: ""
+    year: "2026"
+    selected: y
+
   - title: "Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset"
     authors: "A. Rehman, T. Meraj, A. M. Minhas, A. Imran, Mohsen Ali, Waqas Sultani, Mubarak Shah"
     venue: "Medical Image Analysis (MedIA), 2025"
