@@ -51,9 +51,10 @@ papers:
   - title: "RS100K: Road-Region Segmentation Dataset for Semi-supervised Autonomous Driving in the Wild"
     authors: "M. A. Butt, H. Ali, A. Qayyum, Waqas Sultani, A. Al-Fuqaha, J. Qadir"
     venue: "International Journal of Computer Vision (IJCV), 2025"
-    paper_pdf: ""
-    code: ""
-    year: "2025"
+    paper_pdf: "https://lnkd.in/dhbSYzvR"
+    code: "https://lnkd.in/dXCpEWv6"
+    page: "https://r2s100k.github.io/"
+    year: "2024"
     selected: y
 
   - title: "Joint stream: malignant region learning for breast cancer diagnosis"
@@ -69,15 +70,6 @@ papers:
     venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2024"
     paper_pdf: "https://arxiv.org/pdf/2308.09624"
     code: "https://arxiv.org/pdf/2308.09624"
-    year: "2024"
-    selected: y
-
-  - title: "RS100K: Road-Region Segmentation Dataset for Semi-supervised Autonomous Driving in the Wild"
-    authors: "Muhammad Atif Butt, Hassan Ali, Adnan Qayyum, Waqas Sultani, Ala Al-Fuqaha, Junaid Qadir"
-    venue: "International Journal of Computer Vision (IJCV), 2024"
-    paper_pdf: "https://lnkd.in/dhbSYzvR"
-    code: "https://lnkd.in/dXCpEWv6"
-    page: "https://r2s100k.github.io/"
     year: "2024"
     selected: y
     
