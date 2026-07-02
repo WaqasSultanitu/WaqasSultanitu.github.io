@@ -1,4 +1,54 @@
 papers:
+
+  - title: "GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction"
+    authors: "A. Abu Lehyeh, Xiaohan Zhang, A. Arrabi, Waqas Sultani, Chen Chen, Safwan Wshah"
+    venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Abu_Lehyeh_GeoFlow_Real-Time_Fine-Grained_Cross-View_Geolocalization_via_Iterative_Flow_Prediction_CVPR_2026_paper.pdf"
+    code: ""
+    year: "2026"
+    selected: y
+  
+  - title: "Uni-Hema: Unified Model for Digital Hematopathology"
+    authors: "A. Rehman, I. Rasool, A. Imran, Mohsen Ali, Waqas Sultani"
+    venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+    paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Rehman_Uni-Hema_Unified_Model_for_Digital_Hematopathology_CVPR_2026_paper.pdf"
+    code: ""
+    year: "2026"
+    selected: y
+   
+  - title: "Leveraging Sparse Annotations for Leukemia Diagnosis on the Large Leukemia Dataset"
+    authors: "A. Rehman, T. Meraj, A. M. Minhas, A. Imran, Mohsen Ali, Waqas Sultani, Mubarak Shah"
+    venue: "Medical Image Analysis (MedIA), 2025"
+    paper_pdf: "https://arxiv.org/pdf/2504.02602"
+    code: ""
+    year: "2025"
+    selected: y
+  
+  - title: "MIAdapt: Source-Free Few-shot Domain Adaptive Object Detection for Microscopic Images"
+    authors: "N. Dilawar, S. Nadeem, J. Iqbal, Waqas Sultani, Mohsen Ali"
+    venue: "arXiv preprint, 2025"
+    paper_pdf: "https://arxiv.org/pdf/2503.03370"
+    code: ""
+    year: "2025"
+    selected: n
+  
+  - title: "Cross-view Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance"
+    authors: "A. Arrabi, Xiaohan Zhang, Waqas Sultani, Chen Chen, Safwan Wshah"
+    venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025"
+    paper_pdf: ""
+    code: ""
+    year: "2025"
+    selected: y
+  
+  - title: "RS100K: Road-Region Segmentation Dataset for Semi-supervised Autonomous Driving in the Wild"
+    authors: "M. A. Butt, H. Ali, A. Qayyum, Waqas Sultani, A. Al-Fuqaha, J. Qadir"
+    venue: "International Journal of Computer Vision (IJCV), 2025"
+    paper_pdf: ""
+    code: ""
+    year: "2025"
+    selected: y
+
+
   - title: "GeoDTR+: Toward generic cross-view geolocalization via geometric disentanglement"
     authors: "Xiaohan Zhang, Xingyu Li, Waqas Sultani, Chen Chen, Safwan Wshah"
     venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2024"
