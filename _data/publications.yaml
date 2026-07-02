@@ -2,7 +2,7 @@ papers:
 
   - title: "GeoFlow: Real-Time Fine-Grained Cross-View Geolocalization via Iterative Flow Prediction"
     authors: "A. Abu Lehyeh, Xiaohan Zhang, A. Arrabi, Waqas Sultani, Chen Chen, Safwan Wshah"
-    venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026"
+    venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026"
     paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Abu_Lehyeh_GeoFlow_Real-Time_Fine-Grained_Cross-View_Geolocalization_via_Iterative_Flow_Prediction_CVPR_2026_paper.pdf"
     code: ""
     year: "2026"
