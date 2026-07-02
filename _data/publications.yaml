@@ -6,7 +6,7 @@ papers:
     paper_pdf: "https://openaccess.thecvf.com/content/CVPR2026/papers/Abu_Lehyeh_GeoFlow_Real-Time_Fine-Grained_Cross-View_Geolocalization_via_Iterative_Flow_Prediction_CVPR_2026_paper.pdf"
     code: ""
     year: "2026"
-    selected: y
+    selected: y 
   
   - title: "Uni-Hema: Unified Model for Digital Hematopathology"
     authors: "A. Rehman, I. Rasool, A. Imran, Mohsen Ali, Waqas Sultani"
@@ -56,7 +56,14 @@ papers:
     year: "2025"
     selected: y
 
-
+  - title: "Joint stream: malignant region learning for breast cancer diagnosis"
+    authors: "Abdul Rehman, Sarfaraz Hussein, Waqas Sultani"
+    venue: "Biomedical Signal Processing and Control (BSPC), 2025"
+    paper_pdf: ""
+    code: ""
+    year: "2025"
+    selected: y
+    
   - title: "GeoDTR+: Toward generic cross-view geolocalization via geometric disentanglement"
     authors: "Xiaohan Zhang, Xingyu Li, Waqas Sultani, Chen Chen, Safwan Wshah"
     venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2024"
