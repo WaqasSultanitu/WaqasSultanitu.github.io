@@ -4,7 +4,22 @@ papers:
     authors: "[2018-2025] Adnan Qayyum (Co-Supervisor)"
     year: " "
     selected: y
- 
+  
+  
+  - title: "Surgery Sub-task Classification using Endoscopic Background Enhancement of VR Simulations"
+    authors: "Mehmood Ali"
+    year: ""
+    paper_pdf: ""
+    selected: n
+    
+  - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
+    authors: "Nadeem Yousaf"
+    year: ""
+    paper_pdf: ""
+    selected: n
+
+
+
   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
     authors: "Nadeem Yousaf"
     year: ""
@@ -17,7 +32,11 @@ papers:
     paper_pdf: " "
     selected: n
  
- 
+  - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
+    authors: "Nadeem Yousaf"
+    year: ""
+    paper_pdf: ""
+    selected: n 
   - title: "Deep Learning based House Counting in Satellite Imagery"
     authors: "Hira Ahmad"
     year: "2021"
