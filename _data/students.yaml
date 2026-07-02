@@ -6,9 +6,9 @@ papers:
     selected: y
  
   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
-    authors: "[2020] Nadeem Yousaf"
-    year: "2020"
-    paper_pdf: "https://arxiv.org/pdf/2104.04733.pdf/"
+    authors: "Nadeem Yousaf"
+    year: ""
+    paper_pdf: ""
     selected: n
     
   - title: "A Dataset and Benchmark for Malaria Life-Cycle Classification in Thin Blood Smear Images"
