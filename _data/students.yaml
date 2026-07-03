@@ -23,7 +23,6 @@ papers:
   - title: "Adapting Vision-Language Models for Anomaly Diagnostics with Text Prompt Augmentation"
     authors: "Salwa Batool"
     year: "2024"
-    paper_pdf: ""
     selected: y
   
   - title: "Benchmarking Domain Adaptation Techniques for Diseased Cell Detection in Microscopic Images"
