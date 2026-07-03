@@ -8,19 +8,16 @@ papers:
   - title: "Surgery Sub-task Classification using Endoscopic Background Enhancement of VR Simulations"
     authors: "[MS Student: Mehmood Ali]:: "
     year: ""
-    paper_pdf: ""
     selected: y
  
   - title: "Cross-view Image-Based Geo-Localization in Pakistan"
     authors: "Kinza Fayyaz"
     year: ""
-    paper_pdf: ""
     selected: y
   
   - title: "2D-UDAFormer: Leveraging 2D Transformers for Unsupervised Domain Adaptation for Cross-Modality Medical Image Segmentation"
     authors: "Sumayya Inayat"
     year: ""
-    paper_pdf: ""
     selected: y
   
   - title: "Adapting Vision-Language Models for Anomaly Diagnostics with Text Prompt Augmentation"
@@ -32,49 +29,41 @@ papers:
   - title: "Benchmarking Domain Adaptation Techniques for Diseased Cell Detection in Microscopic Images"
     authors: "Shahid Zikria"
     year: "2024"
-    paper_pdf: ""
     selected: y
   
   - title: "A Multi-Agent Framework for Brain Tumor Diagnosis: Precision Anomaly Detection and Knowledge-Driven Insight"
     authors: "Muhammed Umair"
     year: "2025"
-    paper_pdf: ""
     selected: y
   
   - title: "Frequency-Guided Diffusion Super-Resolution with Patch Stitching for Leukemia Microscopy"
     authors: "Javeria Saeed"
     year: ""
-    paper_pdf: ""
     selected: y
     
   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
     authors: "Nadeem Yousaf"
     year: ""
-    paper_pdf: ""
     selected: y
     
   - title: "A Dataset and Benchmark for Malaria Life-Cycle Classification in Thin Blood Smear Images"
     authors: "Qazi Ammar Arshad"
     year: ""
-    paper_pdf: " "
     selected: y
 
   - title: "Deep Learning based House Counting in Satellite Imagery"
     authors: "Hira Ahmad"
-    year: "2021"
-    paper_pdf: " "
+    year: ""
     selected: y
  
   - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
     authors: " Muhammad Usman Ali"
     year: " "
-    paper_pdf: " "
     selected: y
     
   - title: "Photo Album Summerization"
     authors: " Fawad Arshad"
     year: " "
-    paper_pdf: " "
     selected: y
     
     
