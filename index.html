@@ -326,44 +326,7 @@ title: Personal Webpage
   </ul>
 </div>
 		  
-	     <div class="tab-pane" id="students-all">
-		<ul class="listType">
-		      {% for paper in site.data.students.papers %}
-        <div class="paper" >
-        <li><span><b>{{ paper.authors }}</b> {{ paper.title }}          
- 
-		         {% if paper.paper_pdf %}
-              [<a class="notbutton" href="{{ paper.paper_pdf | prepend: site.baseurl }} " target="_blank" style="text-decoration: none">Paper</a>]
-            {% endif %}
-			{% if paper.page %}
-              [<a class="notbutton" href="{{ paper.page | prepend: site.baseurl }}" target="_blank">Project Page</a>]
-            {% endif %}
-			{% if paper.slides %}
-             [ <a class="notbutton" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>]
-            {% endif %}
-
-            {% if paper.poster %}
-              [<a class="notbutton" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>]
-            {% endif %}
-
-            {% if paper.video %}
-              [<a class="notbutton" href="{{ paper.video }}" target="_blank">Video</a>]
-            {% endif %}
-
-            {% if paper.code %}
-              [<a class="notbutton" href="{{ paper.code }}" target="_blank">Code</a>]
-            {% endif %}
-			{% if paper.dataset %}
-              [<a class="notbutton" href="{{ paper.dataset }}" target="_blank">Dataset</a>]
-            {% endif %}
-			
-			</font>
- 		  </li>
-        </div>
-      {% endfor %}
-	  </ul>
-    </div>
-	
+	  
 
 
 
