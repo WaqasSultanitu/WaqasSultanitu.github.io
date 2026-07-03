@@ -52,26 +52,13 @@ papers:
     year: ""
     paper_pdf: ""
     selected: n
-
-
-
-  - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
-    authors: "Nadeem Yousaf"
-    year: ""
-    paper_pdf: ""
-    selected: n
     
   - title: "A Dataset and Benchmark for Malaria Life-Cycle Classification in Thin Blood Smear Images"
     authors: "Qazi Ammar Arshad"
     year: ""
     paper_pdf: " "
     selected: n
- 
-  - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
-    authors: "Nadeem Yousaf"
-    year: ""
-    paper_pdf: ""
-    selected: n 
+
   - title: "Deep Learning based House Counting in Satellite Imagery"
     authors: "Hira Ahmad"
     year: "2021"
