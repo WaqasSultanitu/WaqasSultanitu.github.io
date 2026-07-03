@@ -294,8 +294,7 @@ title: Personal Webpage
       <div class="paper">
         <li>
           <span>
-            <b>{{ paper.authors }}</b> {{ paper.title }}
-
+            <strong>{{ paper.authors }}<strong> {{ paper.title }}
 			{% if paper.page %}
               [<a class="notbutton" href="{{ paper.page | prepend: site.baseurl }}" target="_blank">Project Page</a>]
             {% endif %}
