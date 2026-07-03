@@ -296,11 +296,7 @@ title: Personal Webpage
           <span>
             <b>{{ paper.authors }}</b> {{ paper.title }}
 
-            {% if paper.paper_pdf %}
-              [<a class="notbutton" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>]
-            {% endif %}
-
-            {% if paper.page %}
+			{% if paper.page %}
               [<a class="notbutton" href="{{ paper.page | prepend: site.baseurl }}" target="_blank">Project Page</a>]
             {% endif %}
 
