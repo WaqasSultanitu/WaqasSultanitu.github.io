@@ -18,6 +18,6 @@ papers:
   - title: "2D-UDAFormer: Leveraging 2D Transformers for Unsupervised Domain Adaptation in Cross-Modality Medical Image Segmentation"
     authors: "[MS Student: Sumayya Inayat]"
     year: ""
-    selected: y
+    selected: y 
 
 
