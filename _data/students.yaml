@@ -1,99 +1,91 @@
 papers:
 
   - title: "Secure and Robust Machine Learning for Healthcare"
-    authors: "[PhD Student (Co-supervisor): Adnan Qayyum] "
-    year: " "
-    selected: y
-  
-  - title: "Surgery Sub-task Classification using Endoscopic Background Enhancement of VR Simulations"
-    authors: "[MS Student: Mehmood Ali] "
+    authors: "[PhD Student (Co-supervisor): Adnan Qayyum]"
     year: ""
     selected: y
- 
-  - title: "Cross-view Image-Based Geo-Localization in Pakistan"
+
+  - title: "Surgery Sub-task Classification Using Endoscopic Background Enhancement in VR Simulations"
+    authors: "[MS Student: Mehmood Ali]"
+    year: ""
+    selected: y
+
+  - title: "Cross-View Image-Based Geo-Localization in Pakistan"
     authors: "[MS Student: Kinza Fayyaz]"
     year: ""
     selected: y
-  
-  - title: "2D-UDAFormer: Leveraging 2D Transformers for Unsupervised Domain Adaptation for Cross-Modality Medical Image Segmentation"
+
+  - title: "2D-UDAFormer: Leveraging 2D Transformers for Unsupervised Domain Adaptation in Cross-Modality Medical Image Segmentation"
     authors: "[MS Student: Sumayya Inayat]"
     year: ""
     selected: y
-    
-  - title: "Cross-Region Building Counting in Satellite Imagery using Counting Consistency"
+
+  - title: "Cross-Region Building Counting in Satellite Imagery Using Counting Consistency"
     authors: "[MS Student: Muaaz Zakria]"
     year: ""
-    selected: y 
-  
-  - title: "Out of distribution detection for skin and malaria images"
+    selected: y
+
+  - title: "Out-of-Distribution Detection for Skin and Malaria Images"
     authors: "[MS Student: Muhammad Zaid]"
     year: ""
     selected: y
-    
-  - title: "Analysis of Out of distribution methods for blood cancer"
+
+  - title: "Analysis of Out-of-Distribution Detection Methods for Blood Cancer"
     authors: "[MS Student: Shafaqat Ali]"
     year: ""
     selected: y
-  
-  - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
+
+  - title: "Destruction from the Sky: A Weakly Supervised Approach for Destruction Detection in Satellite Imagery"
     authors: "[MS Student: Muhammad Usman Ali]"
     year: ""
-    selected: y  
+    selected: y
 
-  - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
-    authors: "[MS Student:  Muhammad shahzaib]"
+  - title: "Destruction from the Sky: A Weakly Supervised Approach for Destruction Detection in Satellite Imagery"
+    authors: "[MS Student: Muhammad Shahzaib]"
     year: ""
-    selected: y 
- 
-    
-  - title: "Adapting Vision-Language Models for Anomaly Diagnostics with Text Prompt Augmentation"
+    selected: y
+
+  - title: "Adapting Vision-Language Models for Anomaly Diagnosis with Text Prompt Augmentation"
     authors: "[MS Student: Salwa Batool]"
     year: ""
-    selected: y   
-  
+    selected: y
+
   - title: "Benchmarking Domain Adaptation Techniques for Diseased Cell Detection in Microscopic Images"
     authors: "[MS Student: Shahid Zikria]"
     year: "2024"
     selected: y
-  
-  - title: "A Multi-Agent Framework for Brain Tumor Diagnosis: Precision Anomaly Detection and Knowledge-Driven Insight"
-    authors: "[MS Student: Muhammed Umair]"
+
+  - title: "A Multi-Agent Framework for Brain Tumor Diagnosis: Precision Anomaly Detection and Knowledge-Driven Insights"
+    authors: "[MS Student: Muhammad Umair]"
     year: "2025"
     selected: y
-  
+
   - title: "Frequency-Guided Diffusion Super-Resolution with Patch Stitching for Leukemia Microscopy"
     authors: "[MS Student: Javeria Saeed]"
     year: ""
     selected: y
-    
-  - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
+
+  - title: "BMI Estimation from Facial Images Using Semantic Segmentation-Based Region-Aware Pooling"
     authors: "[MS Student: Nadeem Yousaf]"
     year: ""
     selected: y
-  
-  - title: "Dogfight: Drone Detection in Drone Videos"
+
+  - title: "DogFight: Drone Detection in Drone Videos"
     authors: "[MS Student: Muhammad Waseem]"
     year: ""
-    selected: y   
-  
+    selected: y
+
   - title: "A Dataset and Benchmark for Malaria Life-Cycle Classification in Thin Blood Smear Images"
     authors: "[MS Student: Qazi Ammar Arshad]"
     year: ""
     selected: y
 
-  - title: "Deep Learning based House Counting in Satellite Imagery"
+  - title: "Deep Learning-Based House Counting in Satellite Imagery"
     authors: "[MS Student: Hira Ahmad]"
     year: ""
     selected: y
- 
-  - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
-    authors: "[MS Student: Muhammad Usman Ali]"
-    year: " "
-    selected: y
-    
-  - title: "Photo Album Summerization"
+
+  - title: "Photo Album Summarization"
     authors: "[MS Student: Fawad Arshad]"
-    year: " "
+    year: ""
     selected: y
-    
-    
