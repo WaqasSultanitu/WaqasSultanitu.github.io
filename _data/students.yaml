@@ -52,12 +52,12 @@ papers:
   
   - title: "Benchmarking Domain Adaptation Techniques for Diseased Cell Detection in Microscopic Images"
     authors: "[MS Student: Shahid Zikria]"
-    year: "2024"
+    year: ""
     selected: y
   
   - title: "A Multi-Agent Framework for Brain Tumor Diagnosis: Precision Anomaly Detection and Knowledge-Driven Insight"
     authors: "[MS Student: Muhammed Umair]"
-    year: "2025"
+    year: ""
     selected: y
   
   - title: "Frequency-Guided Diffusion Super-Resolution with Patch Stitching for Leukemia Microscopy"
