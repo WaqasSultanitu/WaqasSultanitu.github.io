@@ -1,9 +1,16 @@
 papers:
 
-  - title: "Secure and Robust Machine Learning for Healthcare"
-    authors: "[PhD Student (Co-supervisor): Adnan Qayyum] "
+  - title: "Unfied Model for Digital Hematology"
+    authors: "[PhD Student: Muhammad Abdul Rehman], His paper publihsed in MICCAI, CVPR etc  "
     year: " "
     selected: y
+  
+  - title: "Secure and Robust Machine Learning for Healthcare"
+    authors: "[PhD Student (Co-supervisor): Adnan Qayyum], His paper publihsed in MICCAI, PAMI etc "
+    year: " "
+    selected: y
+
+    
 
   - title: "Towards Low-cost and Efficient Malaria Detection"
     authors: "[MS Student:  Syed Javed], His paper published in CVPR"
@@ -34,6 +41,12 @@ papers:
     authors: "[MS Student: Muhammad Zaid], His paper published in Biomedical Signal Processing and Control"
     year: ""
     selected: y
+    
+  - title: "Joint stream: malignant region learning for breast cancer diagnosiss"
+    authors: "[MS Student: Muhammad Abdul Rehman], His paper published in Biomedical Signal Processing and Control"
+    year: ""
+    selected: y
+
     
   - title: "Estimation of BMI from Facial Images using Semantic Segmentation based Region-Aware Pooling"
     authors: "[MS Student: Nadeem Yousaf], His paper published in Computer in Biology and Medicine"
