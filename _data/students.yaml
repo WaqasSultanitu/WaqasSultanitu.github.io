@@ -4,6 +4,11 @@ papers:
     authors: "[PhD Student (Co-supervisor): Adnan Qayyum] "
     year: " "
     selected: y
+
+  - title: "Towards Low-cost and Efficient Malaria Detection"
+    authors: "[MS Student:  Syed Javed], Paper published in CVPR"
+    year: ""
+    selected: y     
   
   - title: "Surgery Sub-task Classification using Endoscopic Background Enhancement of VR Simulations"
     authors: "[MS Student: Mehmood Ali] "
@@ -34,13 +39,8 @@ papers:
     authors: "[MS Student: Shafaqat Ali]"
     year: ""
     selected: y
-  
-  - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
-    authors: "[MS Student: Muhammad Usman Ali]"
-    year: ""
-    selected: y  
 
-  - title: "Destruction from sky: Weakly supervised approach for destruction detection in satellite imagery"
+  - title: "Automatic Whole Slide Image generation for Malaria"
     authors: "[MS Student:  Muhammad shahzaib]"
     year: ""
     selected: y 
