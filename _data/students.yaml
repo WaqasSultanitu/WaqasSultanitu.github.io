@@ -10,6 +10,10 @@ papers:
     year: " "
     selected: y
 
+  - title: "Zero-Shot Domain Adaption for Medical images"
+    authors: "[PhD Student (Co-supervisor): Nimra Dilawar], His paper publihsed in MICCAI"
+    year: " "
+    selected: y
     
 
   - title: "Towards Low-cost and Efficient Malaria Detection"
@@ -62,6 +66,36 @@ papers:
     authors: "[MS Student: Muhammad Usman Ali], His paper published in  isprs journal of photogrammetry and remote sensing"
     year: " "
     selected: y
+    
+  - title: "Survey of Anomaly Detection in Medical Images using VLMs"
+    authors: "[MS Student: Ghulam Ruqia]"
+    year: ""
+    selected: y
+  
+  - title: "sMallVLM: A Lightweight Vision-Language Model for Medical Images"
+    authors: "[MS Student: Ume Habiba]"
+    year: ""
+    selected: y
+  - title: "Kidney Biopsies Segmentation"
+    authors: "[MS Student: Muhammad Umair Shahid]"
+    year: ""
+    selected: y
+
+  - title: "Hybrid State Space and Transformer Backbones for Efficient Medical Vision"
+    authors: "[MS Student: Ali Akram]"
+    year: ""
+    selected: y
+  
+  - title: "Deepfake Detection"
+    authors: "[MS Student: Laiba Munir]"
+    year: ""
+    selected: y
+  
+  - title: "Automated Vertebral Segmentation and Osteoporotic Fracture Detection Using Deep Learning and VLMs"
+    authors: "[MS Student: Javeria Zafar]"
+    year: ""
+    selected: y
+
   
   - title: "Surgery Sub-task Classification using Endoscopic Background Enhancement of VR Simulations"
     authors: "[MS Student: Mehmood Ali] "
