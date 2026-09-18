@@ -1,4 +1,9 @@
 experiences:
+- place: "Information Technology University"
+  time: "2024 - now"
+  title: "Associate Professor"
+  subtitle: "Intelligent Machines Lab"
+  category: "work" 
 - place: "Google Research Scholar Award"
   time: "2023"
   title: "Towards Low-Cost Cancer Detection"
